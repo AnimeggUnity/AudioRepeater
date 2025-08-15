@@ -51,12 +51,12 @@
 
 **方法一：簡單方式**
 1. 下載 FFmpeg：https://ffmpeg.org/download.html 
-2. 將 `ffmpeg.exe` 直接放到程式目錄 (`C:\Work\Wav_project\`)。程式會自動偵測。
+2. 將 `ffmpeg.exe` 直接放到程式目錄。程式會自動偵測。
 
 **方法二：系統安裝**
 1. 下載 FFmpeg 完整版本。
-2. 解壓縮到任意目錄（例如 `C:\ffmpeg`）。
-3. 將其 `bin` 目錄（例如 `C:\ffmpeg\bin`）加入系統 PATH 環境變數。
+2. 解壓縮到任意目錄。
+3. 將其 `bin` 目錄加入系統 PATH 環境變數。
 
 ## 技術規格
 
