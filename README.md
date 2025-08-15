@@ -1,3 +1,5 @@
+![image](https://github.com/AnimeggUnity/AudioRepeater/blob/f9fd7f8cb2f245a2e6c955c96b6ae876e8b11609/2025-08-15_235733.jpg)
+
 # 音訊重複器 (Audio Repeater)
 
 一個簡單易用的 Windows 程式，可以重複播放音訊檔案達到指定的時長。
